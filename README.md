@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Pranjalpro69
-- 👀 I’m interested in Development and coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects and internships
-- 📫 How to reach me ...
+# Hello, I'm Pranjal Dhawan👋
 
-<!---
-Pranjalpro69/Pranjalpro69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Aspiring software developer with a solid foundation in C, C++, Java, and JavaScript. 
+Proficient in front-end technologies including HTML, CSS, Tailwind, and Bootstrap.
+As a dedicated and analytical team leader, I excel in collaborative environments and am committed to continuous learning and improvement.
+
+## Skills
+
+- **Programming Languages:** C, C++, Java
+- **Front-End Development:** HTML, CSS, Javascript, CSS Framworks:- Tailwind CSS, Bootstrap
+- **Soft Skills:** Team Leadership, Collaboration, Analytical Thinking
+
+## Connect with Me
+
+- [LinkedIn] www.linkedin.com/in/pranjal-dhawan-837b36278
+- [Email] pranjalonecse569@gmail.com
+
